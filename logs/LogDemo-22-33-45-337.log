@@ -1,0 +1,8 @@
+22:31:34.189 [main] INFO  rcvdemo.LoggingDemo1 - Click is Succesfull
+22:31:34.192 [main] ERROR rcvdemo.LoggingDemo1 - DB connection Failed
+22:31:34.192 [main] DEBUG rcvdemo.LoggingDemo1 - This is debug
+22:31:34.192 [main] FATAL rcvdemo.LoggingDemo1 - This is Fatal
+22:33:45.334 [main] INFO  recdemo1.LoggingDemo2 - Click is Succesfull2
+22:33:45.336 [main] ERROR recdemo1.LoggingDemo2 - DB connection Failed2
+22:33:45.336 [main] DEBUG recdemo1.LoggingDemo2 - This is debug2
+22:33:45.336 [main] FATAL recdemo1.LoggingDemo2 - This is Fatal2

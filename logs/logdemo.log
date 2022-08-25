@@ -1,0 +1,4 @@
+09:02:14.833 [main] INFO  recdemo1.LoggingDemo2 - Click is Succesfull
+09:02:14.835 [main] ERROR recdemo1.LoggingDemo2 - DB connection Failed
+09:02:14.835 [main] DEBUG recdemo1.LoggingDemo2 - This is debug
+09:02:14.835 [main] FATAL recdemo1.LoggingDemo2 - This is Fatal
